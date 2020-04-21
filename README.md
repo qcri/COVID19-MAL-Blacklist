@@ -7,7 +7,7 @@ This repository offers a daily blacklist of domains related to COVID19 from all 
 <b>The format of the CSV file</b>:
 
 <pre>
-<domain-name> <maliciousness-score>
+domain-name maliciousness-score
 </pre>
 
 Higher the the score a domain, the more malicious the domain is.
