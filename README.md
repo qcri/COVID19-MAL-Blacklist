@@ -1,7 +1,7 @@
 # COVID19 Themed Domains
 This project provides a COVID19 related domain blacklist as well as a dashboard with actionable insights.
 
-## COVID18 Themed Domain Blacklist
+## COVID19 Themed Domain Blacklist
 This repository offers a daily blacklist of domains related to COVID19 from all around the world. 
 
 <b>The format of the CSV file</b>:
