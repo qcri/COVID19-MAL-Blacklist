@@ -1,2 +1,8 @@
-# COVID19-MAL-Blacklist
-COVID19 Themed Domain Blacklist
+# COVID19 Themed Domain Blacklist
+
+This repository offers a daily blacklist of domains related to COVID19. 
+
+The format of the file:
+<domain name> <maliciousness-score>
+  
+Higher the the score a domain, the more malicious the domain is.
