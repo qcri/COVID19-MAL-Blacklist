@@ -28,4 +28,4 @@ chase-covid19s.com 17.0
 
 Please visit our [Kibana dashboard](https://bit.ly/3anpJe7) to gain actionable insights of COVID19 themed domains out in the wild.
 
-[[https://user-images.githubusercontent.com/23474949/79939171-13636380-8467-11ea-9e76-352434cd8738.png]]
+![Dashboard](https://user-images.githubusercontent.com/23474949/79939171-13636380-8467-11ea-9e76-352434cd8738.png)
